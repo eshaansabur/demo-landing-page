@@ -1,0 +1,15 @@
+.jumbotron
+{
+    background-image:url('https://s17.postimg.org/vbsp40c4f/background.jpg');
+    background-size:cover;
+    background-position:center;
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+section{
+    paddding-top:4rem;
+}
+body
+{
+    font-family: 'Rubik', sans-serif;
+}
